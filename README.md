@@ -6,7 +6,7 @@ I'm a front-end developer, currently studying Design for Digital Media at Fatec 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-ss&layout=compact)](https://github.com/andressa-ss/github-readme-stats)
 
 
-You can reach me at:
+## You can reach me at:
 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white&link=https://behance.net/andressasantos93)](https://behance.net/andressasantos93)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square=email&logoColor=white&link=mailto:andressa_@live.com)](mailto:andressa_@live.com)
