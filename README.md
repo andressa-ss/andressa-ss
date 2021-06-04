@@ -1,12 +1,12 @@
-### Olá 👋 
+### Hi, I'm Andressa Santos 👋 
 
-### Sobre mim
-Sou uma desenvolvedora frontend, estou cursando o 3º módulo de Desenvolvimento de Sistemas na Etec e o 1º semestre de Design de Mídias Digitais na FATEC.
+### About me 
+I'm a front-end developer, currently studying Design for Digital Media at Fatec and Systems Development at Etec.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-ss&layout=compact)](https://github.com/andressa-ss/github-readme-stats)
 
 
-Você pode encontrar em contato e conferir meus trabalhos abaixo:
+You can reach me at:
 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white&link=https://behance.net/andressasantos93)](https://behance.net/andressasantos93)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square=email&logoColor=white&link=mailto:andressa_@live.com)](mailto:andressa_@live.com)
