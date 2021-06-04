@@ -8,8 +8,8 @@ Sou uma desenvolvedora frontend, estou cursando o 3º módulo de Desenvolvimento
 
 Você pode encontrar em contato e conferir meus trabalhos abaixo:
 
-[![Behance Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square=email&logoColor=white&link=mailto:andressa_@live.com)](mailto:andressa_@live.com)
-[![Email](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressasantos93)](https://www.linkedin.com/in/andressasantos93/)
+[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white&link=https://behance.net/andressa-ss)](https://behance.net/andressa-ss)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square=email&logoColor=white&link=mailto:andressa_@live.com)](mailto:andressa_@live.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andressa-ss)](https://github.com/andressa-ss)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressasantos93)](https://www.linkedin.com/in/andressasantos93/)
 
