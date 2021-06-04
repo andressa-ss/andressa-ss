@@ -1,7 +1,7 @@
 ### Olá 👋 
 
 ### Sobre mim
-Sou uma desenvolvedora frontend, estou cursando o 3º módulo de Desenvolvimento de Sistemas na Etec e estudando o 1º semestre de Design de Mídias Digitais na FATEC.
+Sou uma desenvolvedora frontend, estou cursando o 3º módulo de Desenvolvimento de Sistemas na Etec e o 1º semestre de Design de Mídias Digitais na FATEC.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-ss&layout=compact)](https://github.com/andressa-ss/github-readme-stats)
 
