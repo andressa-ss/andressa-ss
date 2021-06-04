@@ -6,11 +6,15 @@ Sou uma desenvolvedora frontend, estou cursando o 3º módulo de Desenvolvimento
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-ss&layout=compact)](https://github.com/andressa-ss/github-readme-stats)
 
 
-Você pode encontrar mais informações e meus trabalhos abaixo:
+Você pode encontrar em contato e conferir meus trabalhos abaixo:
 
-[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white&link=https://behance.net/andressasantos93)](https://www.behance.net/andressasantos93)
+[![Behance Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square=email&logoColor=white&link=andressa_@live.com)](andressa_@live.com)
+[![Email](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressasantos93)](https://www.linkedin.com/in/andressasantos93/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andressa-ss)](https://github.com/andressa-ss)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressasantos93)](https://www.linkedin.com/in/andressasantos93/)
+
+
+
 
 
 <!--
